@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/mormor83"><img src="https://api.daily.dev/devcards/5d54a7aa2d43458ba2e08fcf970f7cc2.png?r=oi1" width="400" alt="Mor's Dev Card"/></a>
